@@ -20,7 +20,7 @@ Send me an [✉️ email](mailto:smidibrahim@gmail.com),<br> Or just 💬&nbsp;c
 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="./img/R.svg" style="padding-right:10px;" />
 <img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
