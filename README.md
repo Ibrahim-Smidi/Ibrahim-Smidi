@@ -1,10 +1,10 @@
 ### Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px">
 
-I'am Ibrahim Khalil Smidi , and I'am a financial analyst graduated from ISG Tunis, and I'am now studying Data Engineer and IA as a master grade.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> <!--I am a Photographer, Video Editor and Front-End Developer. You can find some of my work--> <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/Ibrahim-Smidi). I&apos;m launching [🌐 my main website](#) very soon. 
+I'am Ibrahim Khalil Smidi , and I'am a Business Analyst graduated from ISG Tunis,Esprit School of Business and I'am now studying Data Engineer and IA as a master grade.<!---a Master&apos;s student in Digital Marketing at the&nbsp;🏛&nbsp;Higher Institute Of Management Of Tunis.--> <!--I am a Photographer, Video Editor and Front-End Developer. You can find some of my work--> <!---on [<img alt="Codepen" width="24px" src="./img/codepen.svg" /> my codepen](https://codepen.io/houssem-lachtar) and of course, here--> on [<img alt="Github" width="24px" src="./img/github.svg" /> my github](https://github.com/Ibrahim-Smidi). I&apos;m launching [🌐 my main website](#) very soon. 
 
-- 🌱 I&apos;m currently learning about Machine learning , data mining , data vizualization
+- 🌱 I&apos;m currently learning about Data Engineer , IA , data vizualization
 - 👯 I&apos;m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about artificial intelligence 
+- 🥅 2024 Goals: Learn more about DATA
 - ✨ Hobby: Gym, Football, Travealling
 - 🐾 Fun fact: Dog lover 
 <br />
